@@ -1,21 +1,21 @@
 {
-  "name": "chatty",
+  "name": "taulk",
   "version": "1.0.0",
-  "description": "Chatty is a real-time chat application that allows users to connect, communicate, and share moments with friends and family. Built with a modern tech stack, Chatty provides a seamless and interactive user experience.",
+  "description": "Taulk is a real-time chat application that allows users to connect, communicate, and share moments with friends and family. Built with a modern tech stack, Taulk provides a seamless and interactive user experience.",
   "main": "index.js",
   "scripts": {
-    "build": "",
-    "start": ""
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ansul8012/Chatty.git"
+    "url": "git+https://github.com/Ansul8012/Taulk.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ansul8012/Chatty/issues"
+    "url": "https://github.com/Ansul8012/Taulk/issues"
   },
-  "homepage": "https://github.com/Ansul8012/Chatty#readme"
+  "homepage": "https://github.com/Ansul8012/Taulk#readme"
 }

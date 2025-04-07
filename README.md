@@ -1,6 +1,6 @@
-# Chatty - Real-Time Chat Application
+# Taulk - Real-Time Chat Application
 
-Chatty is a real-time chat application that allows users to connect, communicate, and share moments with friends and family. Built with a modern tech stack, Chatty provides a seamless and interactive user experience.
+Taulk is a real-time chat application that allows users to connect, communicate, and share moments with friends and family. Built with a modern tech stack, Taulk provides a seamless and interactive user experience.
 
 ## Features
 
@@ -75,5 +75,5 @@ Chatty is a real-time chat application that allows users to connect, communicate
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/chatty.git
-   cd chatty
+   git clone https://github.com/your-repo/Taulk.git
+   cd Taulk
