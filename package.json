@@ -1,0 +1,21 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "Chatty is a real-time chat application that allows users to connect, communicate, and share moments with friends and family. Built with a modern tech stack, Chatty provides a seamless and interactive user experience.",
+  "main": "index.js",
+  "scripts": {
+    "build": "",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ansul8012/Chatty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ansul8012/Chatty/issues"
+  },
+  "homepage": "https://github.com/Ansul8012/Chatty#readme"
+}
